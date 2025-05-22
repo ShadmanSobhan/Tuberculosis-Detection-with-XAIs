@@ -6,4 +6,6 @@ There are 3 Notebooks.
 2. Segmented Image Preparation -  contains the procedure to generate segmented Lung region
 3. Classification & XAI - contains code to train Classification model and implement XAIs.
 
-The zip folder contains explained classified images along with the explanation.
+The zip folder contains explained classified images along with the explanation. 
+
+.h5 files contains the trained weights.
